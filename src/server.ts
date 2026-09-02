@@ -1,3 +1,4 @@
+import "dotenv/config";
 import Fastify from "fastify";
 import { PORT } from "./config.js";
 import { registerHealthRoute } from "./routes/health.js";
