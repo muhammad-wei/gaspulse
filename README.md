@@ -1,5 +1,11 @@
 # GasPulse
 
+> **Status (2026-10-22): archived.** GasPulse was Team Visioneer's entry to the X-Agent AI MCP
+> Hackathon 2026 ([submission PR #35](https://github.com/xagentAI/xagt-plugin/pull/35)). The
+> hackathon has concluded and the hosted API at `api.gaspulse.win` has been shut down. The source
+> and instructions below remain for reference; running it now means self-hosting with your own
+> Etherscan API key.
+
 Ethereum address gas-consumption trend and activity-score API, built for AI trading agents
 that need a fast, deterministic read on how active an address currently is.
 
